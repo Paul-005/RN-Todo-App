@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Todo App",
+    "slug": "snack-ca4f3da8-09f1-4333-89e3-2d980eadd9fc",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/note.png",
+    "splash": {
+      "image": "./assets/note.png",
+      "resize-mode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/note.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.paubabu05.todoapp"
+    },
+    "web": {
+      "favicon": "./assets/note.png"
+    },
+    "description": "Todo app developed by Paul Babu"
+  }
+}
