@@ -5,6 +5,7 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/note.png",
+    "runtimeVersion": "2.718",
     "splash": {
       "image": "./assets/note.png",
       "resize-mode": "contain",
